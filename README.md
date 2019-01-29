@@ -1,5 +1,10 @@
-# shannon 
+# shannon
+
+[![NPM version](https://img.shields.io/npm/v/shannon.svg)](https://www.npmjs.com/package/shannon)
+[![Downloads](https://img.shields.io/npm/dm/shannon.svg)](https://www.npmjs.com/package/shannon)
 [![Build Status](https://travis-ci.org/twonky4/shannon.svg?branch=master)](https://travis-ci.org/twonky4/shannon)
+
+[![NPM](https://nodei.co/npm/shannon.png?downloads=true)](https://nodei.co/npm/shannon/)
 
 Pure javascript implementation of Shannon stream cipher. No-brainer port of [shannon](https://github.com/chatoooo/shannon).
 
