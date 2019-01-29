@@ -1,0 +1,38 @@
+{
+  "name": "shannon",
+  "version": "0.0.1",
+  "description": "Shannon stream cipher",
+  "author": {
+    "name": "twonky4",
+    "email": "twonky4@gmx.de"
+  },
+  "contributors": [
+    {
+      "name": "twonky4",
+      "email": "twonky4@gmx.de"
+    }
+  ],
+  "homepage": "https://github.com/twonky4/shannon",
+  "license": "MIT",
+  "keywords": [
+    "shannon",
+    "stream",
+    "cipher"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twonky4/shannon"
+  },
+  "main": "main.js",
+  "devDependencies": {
+    "mocha": "^4.1.0",
+    "chai": "^4.1.2"
+  },
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha --exit"
+  },
+  "bugs": {
+    "url": "https://github.com/twonky4/shannon/issues"
+  },
+  "readmeFilename": "README.md"
+}
